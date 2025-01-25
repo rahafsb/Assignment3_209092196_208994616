@@ -1,5 +1,5 @@
-# Assignment3_209092196_208994616
 # README
+# Assignment 3 submitted by Rahaf Sbeh and Saar Buium 
 
 ## Assignment: Extending a Multi-layer Artificial Neural Network (MLP)
 
@@ -25,8 +25,9 @@ This repository contains the modified implementation of a Multi-layer Perceptron
 
 3. **Performance Comparison:**  
    The revised MLP was compared to:
-   - The original single hidden layer implementation.
-   - A fully connected ANN implemented using TensorFlow/Keras.
+   - The original single hidden layer implementation  by Raschka.
+   - A fully connected ANN implemented using PyTorch.
+   - A fully connected ANN presented in the class 
 
 ---
 
@@ -54,7 +55,7 @@ This repository contains the modified implementation of a Multi-layer Perceptron
 
 ### Results Overview:
 
-The results of the predictive performance comparison are detailed in the accompanying report (`report.pdf`). Key metrics like **macro AUC** demonstrate the impact of using two hidden layers compared to one. Additionally, insights into the TensorFlow/Keras implementation are also provided.
+The results of the predictive performance comparison are detailed in the accompanying report (`report.pdf`). Key metrics like **macro AUC** demonstrate the impact of using two hidden layers compared to one. Additionally, insights into the pyTorch implementation are also provided.
 
 For further details, please refer to the `report.pdf` included in this repository.
 

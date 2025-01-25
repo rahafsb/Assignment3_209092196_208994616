@@ -27,7 +27,6 @@ This repository contains the modified implementation of a Multi-layer Perceptron
    The revised MLP was compared to:
    - The original single hidden layer implementation  by Raschka.
    - A fully connected ANN implemented using PyTorch.
-   - A fully connected ANN presented in the class 
 
 ---
 

@@ -32,7 +32,7 @@ This repository contains the modified implementation of a Multi-layer Perceptron
 
 ### How to Run the Code:
 
-1. Clone this repository:
+1. Clone repository
 
 2. Install required libraries:
    ```bash

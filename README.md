@@ -33,10 +33,6 @@ This repository contains the modified implementation of a Multi-layer Perceptron
 ### How to Run the Code:
 
 1. Clone this repository:
-   ```bash
-   git clone <https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb>
-   cd <repository-folder>
-   ```
 
 2. Install required libraries:
    ```bash

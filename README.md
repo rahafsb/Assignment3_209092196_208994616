@@ -11,7 +11,7 @@ This repository contains the modified implementation of a Multi-layer Perceptron
    [GitHub Link to Original Code](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb)
 
 2. **Modified Code with Two Hidden Layers:**  
-   [GitHub Link to Modified Code](ADD_YOUR_MODIFIED_GITHUB_LINK_HERE)
+   [GitHub Link to Modified Code](https://github.com/rahafsb/Assignment3_209092196_208994616/blob/main/MLP.ipynb)
 
 ---
 

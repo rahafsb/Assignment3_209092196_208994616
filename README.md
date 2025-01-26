@@ -1,7 +1,7 @@
 # README
 # Assignment 3 submitted by Rahaf Sbeh and Saar Buium 
 
-## Assignment: Extending a Multi-layer Artificial Neural Network (MLP)
+## Extending a Multi-layer Artificial Neural Network (MLP)
 
 This repository contains the modified implementation of a Multi-layer Perceptron (MLP) from Chapter 11 of the book "Machine Learning with PyTorch and Scikit-Learn" by Raschka et al. (2022). The modifications include extending the original MLP code to support **two hidden layers** instead of a single hidden layer.
 
@@ -56,5 +56,5 @@ This repository contains the modified implementation of a Multi-layer Perceptron
 
 The results of the predictive performance comparison are detailed in the accompanying report (`report.pdf`). Key metrics like **macro AUC** demonstrate the impact of using two hidden layers compared to one. Additionally, insights into the pyTorch implementation are also provided.
 
-For further details, please refer to the `report.pdf` included in this repository.
+For further details, please refer to the `report.pdf` included in this repository and zip file.
 
